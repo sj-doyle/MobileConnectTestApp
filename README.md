@@ -1,3 +1,3 @@
-CrossOperatorAPIDemo
+Mobile Connect Test App
 
-Demonstrates the use of cross operator API services including payments &amp; operator identity
+Tests the use of cross operator Mobile Connect
